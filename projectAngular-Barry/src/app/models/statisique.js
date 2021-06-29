@@ -1,0 +1,1 @@
+class import {  } from "module";
